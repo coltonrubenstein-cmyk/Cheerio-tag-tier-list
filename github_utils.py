@@ -1,7 +1,6 @@
 from github import Github
 import json
 
-# Fill in your GitHub token and repo info
 GITHUB_TOKEN = "YOUR_GITHUB_TOKEN"
 REPO_NAME = "username/repo_name"
 FILE_PATH = "players.json"
